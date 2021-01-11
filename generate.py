@@ -20,6 +20,6 @@ x = datetime.datetime.now()
 #print ('<main>')
 #print ('<ol class="gradient-list">')
 print ('<li>')
-print ("Your hackthebox invite code is : " + base.decode('utf-8') + "</b>" + generated on: " + str(x))
+print ("Your hackthebox invite code is : " + base.decode('utf-8') + "</b>" + "generated on: " + str(x))
 print ('</li>')
 
