@@ -1,3 +1,9 @@
+.body {
+  background-image: url("mbcrump.png");
+  background-repeat: no-repeat, repeat;
+  background-color: #cccccc;
+}
+
 .list-type5{
 width:410px;
 margin:0 auto;
