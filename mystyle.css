@@ -1,6 +1,5 @@
-.body {
+body {
   background-image: url("mbcrump.png");
-  background-repeat: no-repeat, repeat;
   background-color: #cccccc;
 }
 
