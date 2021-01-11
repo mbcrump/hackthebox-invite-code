@@ -20,6 +20,6 @@ print ('<link rel="stylesheet" href="https://mbcrump.github.io/runpython2/mystyl
 print ('<main>')
 print ('<ol class="gradient-list">')
 print ('<li>')
-print ("Your hackthebox invite code is : " + base.decode('utf-8') + "Generated on: " + x)
+print ("Your hackthebox invite code is : " + base.decode('utf-8') + "Generated on: " + str(x))
 print ('</li>')
 
